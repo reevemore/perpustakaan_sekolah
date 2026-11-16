@@ -4,7 +4,7 @@ Aplikasi Perpustakaan Sekolah adalah sistem informasi berbasis web yang dirancan
 
 Tim yang mengembangkan aplikasi ini :
 • Saya Sendiri ( Reeve ) - Fullstack Frontend & Backend Developer
-• Fizzahra ( Fizza ) - Model / Database
+• Fizzahra ( Fizza ) - Model / Database & Features Qa Developer
 • Farid ( Farid ) - Backend Developer & Features Qa Devleoper
 
 
