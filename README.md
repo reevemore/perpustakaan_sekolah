@@ -1,4 +1,4 @@
-# <img src="https://api.iconify.design/lucide:book-open.svg?color=%233b82f6" width="28" height="28" align="absmiddle" /> Aplikasi Manajemen Perpustakaan Sekolah
+# <img src="./assets/images/logo-light.png" width="28" height="28" align="absmiddle" /> Aplikasi Manajemen Perpustakaan Sekolah
 
 Aplikasi Perpustakaan Sekolah adalah sistem informasi berbasis web yang dirancang untuk mempermudah pengelolaan data buku, anggota (siswa/guru), transaksi peminjaman dan pengembalian, serta pembuatan laporan perpustakaan secara digital.
 
@@ -9,7 +9,7 @@ Aplikasi Perpustakaan Sekolah adalah sistem informasi berbasis web yang dirancan
 
 ---
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23f59e0b" width="24" height="24" align="absmiddle" /> Tech Stack (Teknologi yang Digunakan)
+## <img src="./assets/images/perpus.png" width="24" height="24" align="absmiddle" /> Tech Stack (Teknologi yang Digunakan)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -29,7 +29,7 @@ Aplikasi Perpustakaan Sekolah adalah sistem informasi berbasis web yang dirancan
 
 
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%2310b981" width="24" height="24" align="absmiddle" /> Cara Instalasi & Menjalankan Proyek
+## <img src="./assets/images/comming-soon.png" width="24" height="24" align="absmiddle" /> Cara Instalasi & Menjalankan Proyek
 
 1. **Clone atau Unduh Repository ini**
    ```bash
