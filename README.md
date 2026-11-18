@@ -34,7 +34,6 @@ Aplikasi Perpustakaan Sekolah adalah sistem informasi berbasis web yang dirancan
 1. **Clone atau Unduh Repository ini**
    ```bash
    git clone [https://github.com/reevemore/perpustakaan_sekolah.git](https://github.com/reevemore/perpustakaan_sekolah.git)
-Gunakan kode dengan hati-hati.
 2. **Pindahkan Folder**
 Simpan folder proyek ke dalam direktori server lokal kamu (Contoh: htdocs jika menggunakan XAMPP).
 3. **Import Database**
