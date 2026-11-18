@@ -45,6 +45,12 @@ $routes->group('', ['filter' => 'auth'], static function (RouteCollection $route
     $routes->post('petugas/update/(:num)', 'Petugas::update/$1');
     $routes->post('petugas/delete/(:num)', 'Petugas::delete/$1');
 
-    // STEP berikutnya (Peminjaman, Pengembalian)
-    // ditambahkan di dalam group ini.
+    // Transaksi Peminjaman
+    $routes->get('peminjaman', 'Peminjaman::index');
+    $routes->post('peminjaman/store', 'Peminjaman::store');
+
+    // Transaksi Pengembalian
+    $routes->get('pengembalian', 'Pengembalian::index');
+    $routes->post('pengembalian/kembalikan/(:num)', 'Pengembalian::kembalikan/$1');
+    $routes->post('pengembalian/kembalikan-semua/(:num)', 'Pengembalian::kembalikanSemua/$1');
 });
